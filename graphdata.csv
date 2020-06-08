@@ -1,7 +1,7 @@
-Name,emailId,Location
-Asritha,asritha@gmail.com,Kurnool
-Lohitha,lohi123@gmail.com,Hyderabad
-Dinesh,panala67@gmail.com,Mumbai
-Afifa,afifashaik@gmail.com,chennai
-madhu,madhu112@gmail.com,Hyderabad
-kiran,kiranakula@gmail.com,Kerala
+Name,emailId,Location,Born,Related TO,Relationship
+Asritha,asritha@gmail.com,Kurnool,1996,Lohitha,Friends
+Lohitha,lohi123@gmail.com,Hyderabad,1997,madhu,Colleague
+Dinesh,panala67@gmail.com,Mumbai,1998,kiran,Manager
+Afifa,afifashaik@gmail.com,chennai,1996,Dinesh,Neighbours
+madhu,madhu112@gmail.com,Hyderabad,1995,madhu,Self
+kiran,kiranakula@gmail.com,Kerala,1994,Asritha,Brother
